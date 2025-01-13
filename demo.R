@@ -44,7 +44,7 @@ create_files <- TRUE
 #### Step 1: Load data
 
 ## Check simulated dataset or load your own dataset
-dt_simulated_weekly= read_xlsx("L:/ExpandedBM/Robyn & Meridian/TEst badoit/data_TEST.xlsx")
+dt_simulated_weekly= read_xlsx("data_TEST.xlsx")
 head(dt_simulated_weekly)
 
 ## Check holidays from Prophet
