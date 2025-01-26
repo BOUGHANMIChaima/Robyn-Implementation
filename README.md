@@ -2,7 +2,7 @@
 > Adapted from [Open Source Meta Package](https://github.com/facebookexperimental/Robyn/tree/main?tab=readme-ov-file)  for MMM.
 
 ## What is Robyn ?:
-![](https://github.com/BOUGHANMIChaima/Robyn-Implementation/blob/main/robyn.jpg)
+![](https://github.com/BOUGHANMIChaima/Robyn-Implementation/blob/main/robyn.jpg) <br/>
 Robyn is an experimental, semi-automated and open-sourced Marketing Mix Modeling (MMM) package from Meta Marketing Science. It uses various machine learning techniques (Ridge regression, multi-objective evolutionary algorithm for hyperparameter optimization, time-series decomposition for trend & season, gradient-based optimization for budget allocation, clustering, etc.) to define media channel efficiency and effectivity, explore adstock rates and saturation curves. It's built for granular datasets with many independent variables and therefore especially suitable for digital and direct response advertisers with rich data sources.
 
 ## Why are we doing this ?: 
