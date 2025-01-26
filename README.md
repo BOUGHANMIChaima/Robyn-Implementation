@@ -10,4 +10,4 @@ MMM used to be a resource-intensive technique that was only affordable for "big 
 
 Robyn is available in R and Python. For this project, I tested the R version. <br/>
 
-![]() <br/>
+![](https://github.com/BOUGHANMIChaima/Robyn-Implementation/blob/main/robyn_1.png) <br/>
